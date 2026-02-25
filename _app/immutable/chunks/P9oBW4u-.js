@@ -1,0 +1,1 @@
+import{w as s}from"./DPo9omsL.js";const n=s({show:!1,message:"",type:"danger",resolve:null});function a(e,r="danger"){return new Promise(o=>{n.set({show:!0,message:e,type:r,resolve:o})})}export{n as a,a as c};
