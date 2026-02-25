@@ -1,1 +1,0 @@
-import{g as e}from"../chunks/BIeMTzqW.js";import"../chunks/DsnmJJEf.js";import"../chunks/Dreri0Nc.js";const t=()=>{localStorage.getItem("token")?e("/dashboard",{replaceState:!0}):e("/login",{replaceState:!0})},l=Object.freeze(Object.defineProperty({__proto__:null,load:t},Symbol.toStringTag,{value:"Module"}));function c(o){}export{c as component,l as universal};
